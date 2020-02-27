@@ -144,7 +144,7 @@ def main():
 	print_solution(solution)
 
 if __name__ == "__main__":
-    main()
+	
     
     
     
